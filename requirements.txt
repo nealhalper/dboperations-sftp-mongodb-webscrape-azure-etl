@@ -1,0 +1,5 @@
+psycopg2-binary
+sqlalchemy
+polars
+python-dotenv
+requests
