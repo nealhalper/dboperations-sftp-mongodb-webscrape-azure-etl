@@ -3,3 +3,4 @@ sqlalchemy
 polars
 python-dotenv
 requests
+paramiko
