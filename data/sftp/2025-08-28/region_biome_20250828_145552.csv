@@ -1,0 +1,201 @@
+Region_ID,Full_Name,Biome
+1,Maruvel-Ara,River Valley
+2,Rekthun-Tor,Coastal
+3,Jaro-Mor-Ara,River Valley
+4,Vel-Ond-Vash,Scrubland
+5,Thesk-Mar-Tor,Ashlands
+6,Sola-Rek-Tor,River Valley
+7,Liora-Nak-Ara,Scrubland
+8,Marvek-Drav-Tor,River Valley
+9,Shunari-Vash,River Valley
+10,Velthun-Ara,Ashlands
+11,Orravik-Shun,Scrubland
+12,Kasdrav-Tor,Coastal
+13,Ondthera-Ara,River Valley
+14,Torvek-Tor,River Valley
+15,Lioranak-Vash,Coastal
+16,Eruval-Ara,Scrubland
+17,Kamrek-Tor,River Valley
+18,Voashar-Ara,Scrubland
+19,Thunvar-Tor,River Valley
+20,Kethmar-Vash,Scrubland
+21,Morvak-Vash,Coastal
+22,Therond-Ara,Scrubland
+23,Dravmor-Tor,River Valley
+24,Velara-Ara,Scrubland
+25,Kamarun-Vash,River Valley
+26,Rektor-Tor,River Valley
+27,Solvek-Ara,Scrubland
+28,Vashrin-Vash,River Valley
+29,Kavrel-Tor,River Valley
+30,Solmar-Ara,River Valley
+31,Drovash-Tor,Scrubland
+32,Marolin-Vash,Coastal
+33,Torlin-Tor,Scrubland
+34,Veleth-Ara,Scrubland
+35,Kasthun-Tor,Scrubland
+36,Ondrek-Ara,Scrubland
+37,Shumar-Shun,Ashlands
+38,Kavros-Tor,Coastal
+39,Velrin-Ara,Scrubland
+40,Marveth-Vash,River Valley
+41,Torvak-Tor,River Valley
+42,Jaro-Mor-Vash,River Valley
+43,Sharond-Ara,Scrubland
+44,Marjaro-Vash,River Valley
+45,Rekvas-Tor,River Valley
+46,Varond-Vash,River Valley
+47,Liravel-Ara,Scrubland
+48,Mordraan-Vash,Coastal
+49,Tekran-Tor,Coastal
+50,Sharlum-Vash,River Valley
+51,Ondvel-Ara,Scrubland
+52,Kasdrel-Tor,River Valley
+53,Theravar-Ara,River Valley
+54,Marorin-Vash,River Valley
+55,Dravrek-Tor,Coastal
+56,Solrin-Ara,Scrubland
+57,Varmor-Tor,River Valley
+58,Jarovin-Vash,River Valley
+59,Velketh-Ara,Ashlands
+60,Rekzir-Tor,River Valley
+61,Shukar-Shun,Ashlands
+62,Tekmor-Tor,Coastal
+63,Therlin-Ara,River Valley
+64,Kamvas-Tor,River Valley
+65,Marvek-Vash,River Valley
+66,Solara-Ara,Scrubland
+67,Kavtek-Tor,Scrubland
+68,Dravkas-Tor,River Valley
+69,Praxis Directorate-Tor,Scrubland
+70,Erumar-Ara,River Valley
+71,Kasvor-Tor,Scrubland
+72,Jarovash-Vash,River Valley
+73,Torvakel-Tor,River Valley
+74,Solther-Ara,Scrubland
+75,Tormor-Tor,Coastal
+76,Velshan-Ara,Scrubland
+77,Tekvas-Tor,River Valley
+78,Vaskorin-Vash,River Valley
+79,Solrinel-Ara,Scrubland
+80,Marvash-Vash,River Valley
+81,Velmor-Ara,River Valley
+82,Jarolin-Vash,River Valley
+83,Kasrek-Tor,Coastal
+84,Lironda-Ara,Scrubland
+85,Shuven-Shun,Ashlands
+86,Torjak-Tor,River Valley
+87,Varshar-Vash,River Valley
+88,Rekmar-Tor,Scrubland
+89,Ondvara-Ara,River Valley
+90,Tekmorin-Tor,River Valley
+91,Jarovek-Vash,River Valley
+92,Kavmor-Tor,River Valley
+93,Solvar-Ara,Scrubland
+94,Marovar-Vash,River Valley
+95,Dravtor-Tor,Coastal
+96,Kavrek-Tor,River Valley
+97,Velorin-Ara,River Valley
+98,Marjask-Vash,Coastal
+99,Torvas-Tor,River Valley
+100,Ondketh-Ara,Ashlands
+101,Tekvar-Tor,River Valley
+102,Solthera-Ara,River Valley
+103,Jarovin-Vash,River Valley
+104,Dravzek-Tor,Coastal
+105,Shulmar-Shun,Ashlands
+106,Velarael-Ara,Scrubland
+107,Kasdir-Tor,River Valley
+108,Vaskor-Vash,River Valley
+109,Ondrel-Ara,River Valley
+110,Torvakir-Tor,River Valley
+111,Jaroshar-Vash,River Valley
+112,Ondveth-Ara,Scrubland
+113,Kasvron-Tor,Coastal
+114,Rekthun-Ara,Coastal
+115,Marulin-Vash,River Valley
+116,Tekdar-Tor,River Valley
+117,Kavtor-Tor,River Valley
+118,Ondlir-Ara,Scrubland
+119,Jaromar-Vash,River Valley
+120,Torrek-Tor,Coastal
+121,Ondar-Shun,Scrubland
+122,Tekras-Tor,River Valley
+123,Solvar-Ara,River Valley
+124,Dravmar-Tor,River Valley
+125,Marovas-Vash,River Valley
+126,Velara-Ara,Scrubland
+127,Torvrek-Tor,River Valley
+128,Marvask-Vash,River Valley
+129,Ondrelis-Ara,Scrubland
+130,Torzin-Tor,River Valley
+131,Solveth-Ara,River Valley
+132,Jaroveth-Vash,River Valley
+133,Kasvrek-Tor,Coastal
+134,Ondlirak-Ara,Scrubland
+135,Marovaril-Vash,River Valley
+136,Dravketh-Tor,River Valley
+137,Shuvor-Shun,Ashlands
+138,Tekmorak-Tor,Coastal
+139,Solrend-Ara,Scrubland
+140,Jaromarun-Vash,River Valley
+141,Torlinar-Tor,River Valley
+142,Velmorin-Ara,Scrubland
+143,Kasdravik-Tor,Scrubland
+144,Solthar-Ara,River Valley
+145,Marvekis-Vash,River Valley
+146,Torrekis-Tor,River Valley
+147,Solrendel-Ara,Scrubland
+148,Marovarun-Vash,River Valley
+149,Dravrekis-Tor,Coastal
+150,Ondvarik-Ara,Scrubland
+151,Kasthorin-Tor,River Valley
+152,Jarovethis-Vash,River Valley
+153,Torvash-Tor,River Valley
+154,Solvak-Ara,Scrubland
+155,Shunrel-Shun,Ashlands
+156,Velrak-Ara,Scrubland
+157,Torval-Tor,Coastal
+158,Vasrek-Vash,River Valley
+159,Solvarin-Ara,River Valley
+160,Torlek-Tor,River Valley
+161,Marokin-Vash,River Valley
+162,Solmarik-Ara,River Valley
+163,Dravmarin-Tor,Coastal
+164,Velshar-Ara,Scrubland
+165,Vashmar-Vash,River Valley
+166,Torven-Tor,Scrubland
+167,Teklor-Tor,River Valley
+168,Solneth-Ara,River Valley
+169,Jaroth-Vash,River Valley
+170,Torvekis-Tor,River Valley
+171,Shunrak-Shun,Ashlands
+172,Torlish-Tor,Coastal
+173,Ondvelis-Ara,River Valley
+174,Dravlen-Tor,River Valley
+175,Marvelin-Vash,River Valley
+176,Solrik-Ara,Scrubland
+177,Torvakren-Tor,River Valley
+178,Jarovinor-Vash,River Valley
+179,Ondrath-Ara,Scrubland
+180,Travrek-Tor,River Valley
+181,Solriven-Ara,River Valley
+182,Jarothis-Vash,River Valley
+183,Dravmin-Tor,Coastal
+184,Solvinar-Ara,Scrubland
+185,Marval-Vash,Coastal
+186,Kasdrin-Tor,River Valley
+187,Shundrel-Shun,Ashlands
+188,Torvashis-Tor,River Valley
+189,Ondthar-Ara,River Valley
+190,Vashrinel-Vash,River Valley
+191,Torgraven-Tor,Coastal
+192,Solvrek-Ara,River Valley
+193,Dravven-Tor,River Valley
+194,Velthur-Ara,Scrubland
+195,Maroth-Vash,River Valley
+196,Torlinth-Tor,River Valley
+197,Ondvash-Ara,River Valley
+198,Jarvrek-Vash,River Valley
+199,Torketh-Tor,Coastal
+200,Shunvel-Shun,Ashlands

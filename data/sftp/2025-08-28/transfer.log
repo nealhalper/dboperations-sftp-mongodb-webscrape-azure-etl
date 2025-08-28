@@ -1,0 +1,48 @@
+2025-08-28 14:42:15 INFO: SUCCESS: Downloaded region_biome.csv as region_biome_2025-08-28_144214.csv
+2025-08-28 14:42:17 INFO: SUCCESS: Downloaded households.csv as households_2025-08-28_144215.csv
+2025-08-28 14:42:18 INFO: SUCCESS: Downloaded faction_distribution.csv as faction_distribution_2025-08-28_144217.csv
+2025-08-28 14:42:18 INFO: Connected (version 2.0, client OpenSSH_8.4p1)
+2025-08-28 14:42:18 INFO: Authentication (password) successful!
+2025-08-28 14:42:19 INFO: [chan 0] Opened sftp connection (server version 3)
+2025-08-28 14:42:19 INFO: [chan 0] sftp session closed.
+2025-08-28 14:43:09 INFO: SUCCESS: Downloaded region_biome.csv as region_biome_2025-08-28_144308.csv
+2025-08-28 14:43:11 INFO: SUCCESS: Downloaded households.csv as households_2025-08-28_144309.csv
+2025-08-28 14:43:12 INFO: SUCCESS: Downloaded faction_distribution.csv as faction_distribution_2025-08-28_144311.csv
+2025-08-28 14:43:12 INFO: Connected (version 2.0, client OpenSSH_8.4p1)
+2025-08-28 14:43:12 INFO: Authentication (password) successful!
+2025-08-28 14:43:13 INFO: [chan 0] Opened sftp connection (server version 3)
+2025-08-28 14:43:13 INFO: [chan 0] sftp session closed.
+2025-08-28 14:44:34 INFO: SUCCESS: Downloaded region_biome.csv as region_biome_2025-08-28_144433.csv
+2025-08-28 14:44:45 INFO: SUCCESS: Downloaded households.csv as households_2025-08-28_144434.csv
+2025-08-28 14:44:46 INFO: SUCCESS: Downloaded faction_distribution.csv as faction_distribution_2025-08-28_144445.csv
+2025-08-28 14:44:46 INFO: Connected (version 2.0, client OpenSSH_8.4p1)
+2025-08-28 14:44:46 INFO: Authentication (password) successful!
+2025-08-28 14:44:48 INFO: [chan 0] Opened sftp connection (server version 3)
+2025-08-28 14:44:48 INFO: [chan 0] sftp session closed.
+2025-08-28 14:52:38 INFO: SUCCESS: Downloaded region_biome.csv from BASE_URL.
+2025-08-28 14:52:40 INFO: SUCCESS: Downloaded households.csv from BASE_URL.
+2025-08-28 14:52:41 INFO: SUCCESS: Downloaded faction_distribution.csv from BASE_URL.
+2025-08-28 14:52:41 INFO: TRANSFER SUMMARY: Successful: ['region_biome.csv', 'households.csv', 'faction_distribution.csv'] | Failed: []
+2025-08-28 14:52:41 INFO: Connected (version 2.0, client OpenSSH_8.4p1)
+2025-08-28 14:52:41 INFO: Authentication (password) successful!
+2025-08-28 14:52:42 INFO: [chan 0] Opened sftp connection (server version 3)
+2025-08-28 14:52:42 INFO: [chan 0] sftp session closed.
+2025-08-28 14:55:53 INFO: SUCCESS: Downloaded region_biome.csv as region_biome_20250828_145552.csv from BASE_URL.
+2025-08-28 14:55:55 INFO: SUCCESS: Downloaded households.csv as households_20250828_145553.csv from BASE_URL.
+2025-08-28 14:55:56 INFO: SUCCESS: Downloaded faction_distribution.csv as faction_distribution_20250828_145555.csv from BASE_URL.
+2025-08-28 14:55:56 INFO: TRANSFER SUMMARY: Successful: ['region_biome_20250828_145552.csv', 'households_20250828_145553.csv', 'faction_distribution_20250828_145555.csv'] | Failed: []
+2025-08-28 14:55:56 INFO: Connected (version 2.0, client OpenSSH_8.4p1)
+2025-08-28 14:55:56 INFO: Authentication (password) successful!
+2025-08-28 14:55:57 INFO: [chan 0] Opened sftp connection (server version 3)
+2025-08-28 14:55:57 ERROR: FAILED: Could not change to remote_dir /home/user/upload: [Errno 2] No such file
+2025-08-28 14:55:57 INFO: TRANSFER SUMMARY: Successful: [] | Failed: []
+2025-08-28 14:55:57 INFO: [chan 0] sftp session closed.
+2025-08-28 14:59:23 INFO: SKIP: region_biome.csv already exists locally as region_biome_20250828_145552.csv.
+2025-08-28 14:59:23 INFO: SKIP: households.csv already exists locally as households_20250828_145553.csv.
+2025-08-28 14:59:23 INFO: SKIP: faction_distribution.csv already exists locally as faction_distribution_20250828_145555.csv.
+2025-08-28 14:59:23 INFO: TRANSFER SUMMARY: Successful: ['region_biome_20250828_145552.csv', 'households_20250828_145553.csv', 'faction_distribution_20250828_145555.csv'] | Failed: []
+2025-08-28 14:59:23 INFO: Connected (version 2.0, client OpenSSH_8.4p1)
+2025-08-28 14:59:24 INFO: Authentication (password) successful!
+2025-08-28 14:59:25 INFO: [chan 0] Opened sftp connection (server version 3)
+2025-08-28 14:59:25 INFO: TRANSFER SUMMARY: Successful: [] | Failed: []
+2025-08-28 14:59:25 INFO: [chan 0] sftp session closed.

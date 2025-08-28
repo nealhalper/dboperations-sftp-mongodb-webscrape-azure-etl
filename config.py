@@ -10,3 +10,9 @@ FILES_TO_INGEST = [
     "people.csv",
     "regions.csv"
 ]
+
+CSV_FILES = [
+    'region_biome.csv',
+    'households.csv',
+    'faction_distribution.csv'
+]
